@@ -25,7 +25,6 @@ data.forEach(i => {
 <h5><span class="text-danger fw-b">City: </span>${i.city}</h5><br>
 
 <h5><span class="text-danger fw-b">Country :</span> ${i.country}</h5><br>
-<h5><span class="text-danger fw-b">City:</span> ${i.city}</h5><br>
 
 </div>
 </div>`;
